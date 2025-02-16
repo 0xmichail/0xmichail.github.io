@@ -1,6 +1,6 @@
 ---
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+title: Hello World
+date: 2025-02-15
 categories: [general]
 tags: [helloworld]     # TAG names should always be lowercase
 ---
